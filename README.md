@@ -7,6 +7,8 @@
 
 <h2> 🚦 Guia </h2>
 
+
+
 <p>
 🔹 Começaremos passando rapidamente sobre o Java e algumas das suas características mais importantes <br>
 🔹 Em seguida, entraremos nas instalações do Java e das IDEs nos diferentes sistemas operacionais: Windows e Linux<br>
@@ -28,6 +30,8 @@
   
 
 <h2> 📚 Ementa</h2>
+
+
 
 <h3><strong>▪️ Instalação/Configuração do Java</strong></h3>
 
@@ -58,6 +62,8 @@
 
 
 <h2><strong> 🐧 LINUX</h2></strong>
+
+
 
 <h3>🔺 Instalação OpenJDK</h3>
 
@@ -129,6 +135,8 @@ cat ~/.bashrc
 ```
 java --version
 ```
+
+
 
 <p align="right"><em>Créditos: <a href="https://www.youtube.com/watch?v=jARiy3DZdwg">DevSuperior</a></em></p>
 
@@ -238,6 +246,8 @@ git config --list
 <br><br>
 
 <h2><strong>🪟 WINDOWS</h2></strong>
+
+
 
 <h3>🔺 Instalação JDK Zulu</h3>
 
@@ -392,7 +402,7 @@ git config --list
 Este repositório foi criado para fins de estudo, então contribua com ele.
 Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 
-Se possível:
+Se possível:::
 
 ⭐️  Star o projeto
 
